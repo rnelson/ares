@@ -149,5 +149,11 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/sublimetext,visualstudiocode,vim,windows,macos,linux
 
+build/
+
 # Backslide
 .tmp/
+
+# ICS/NIMS output
+training/ICS_NIMS/dist
+training/ICS_NIMS/notes/*.pdf
