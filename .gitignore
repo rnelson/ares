@@ -148,3 +148,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/sublimetext,visualstudiocode,vim,windows,macos,linux
+
+# Backslide
+.tmp/
