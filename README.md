@@ -1,4 +1,4 @@
-# DC ARES NE Training
+# KØROS' ARES Materials
 
 ## Overview
 
