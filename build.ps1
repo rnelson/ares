@@ -11,7 +11,7 @@ Set-Location -Path ./training/ICS_NIMS
 
 # Build the slide deck
 bs e -b
-Copy-Item -Path ../../assets/img/repo_qr_sm.png -Destination dist
+Copy-Item -Path ../../assets/img/k0ros_qr_sm.png -Destination dist
 if (Test-Path -Path ./dist) { Move-Item -Path dist/* -Destination "../../build/K0ROS ARES/ICS_NIMS" }
 if (Test-Path -Path ./dist) { Remove-Item -Path dist -Force -Recurse }
 

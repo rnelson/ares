@@ -882,11 +882,9 @@ acquisition
 
 # Resources
 
-- Courses
-
-  - IS-100: https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-100.c&lang=en
-  - IS-700: https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-700.b&lang=
+- IS-100: https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-100.c&lang=en
+- IS-700: https://training.fema.gov/programs/independent-study/courseoverview.aspx?code=IS-700.b&lang=
 
 - Notes and slides
 
-.center[![](repo_qr_sm.png)]
+.center[![](k0ros_qr_sm.png)]
